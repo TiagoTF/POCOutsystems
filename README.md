@@ -7,4 +7,5 @@
 
 
 3. Verify the visibility after step 2 with the GetAllApplicationConfig request
-<img width="1866" height="731" alt="image" src="https://github.com/user-attachments/assets/fd636b7f-ecc1-4405-b328-0c28a148d6ec" />
+<img width="1867" height="734" alt="image" src="https://github.com/user-attachments/assets/c112f3f0-9e31-4bbe-8831-8fc48ab95acf" />
+
