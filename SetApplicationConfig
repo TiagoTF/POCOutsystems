@@ -20,7 +20,7 @@ SOAPAction: "http://OutSystemsNowService/ApplicationConfig/SetApplicationConfig"
 
       <ApplicationId>790</ApplicationId>
 
-      <Hide>false</Hide>
+      <Hide>true</Hide>
 
       <IsRoleAccessActive>false</IsRoleAccessActive>
 
