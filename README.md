@@ -1,5 +1,5 @@
 1. Use the GetAllApplicationConfig to verify which app id's are present
-<img width="1887" height="795" alt="image" src="https://github.com/user-attachments/assets/f4e0ba8d-5b6e-4ee2-8b05-598ec949bc18" />
+<img width="1886" height="791" alt="image" src="https://github.com/user-attachments/assets/63c7d260-167c-4c6a-83e7-1dbc64ebbd5c" />
 
 
 2. Use the SetApplicationConfig to change its visibility
