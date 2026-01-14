@@ -3,7 +3,7 @@
 
 
 2. Use the SetApplicationConfig to change its visibility
-<img width="1868" height="740" alt="image" src="https://github.com/user-attachments/assets/5507e582-24d1-40ee-9583-5051f6d1d2e8" />
+<img width="1867" height="735" alt="image" src="https://github.com/user-attachments/assets/dc4cd02d-bb3f-4ea1-a36e-c304151b8857" />
 
 
 3. Verify the visibility after step 2 with the GetAllApplicationConfig request
