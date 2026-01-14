@@ -1,0 +1,24 @@
+POST /OutSystemsNowService/ApplicationConfig.asmx HTTP/1.1
+
+Host: example.com
+
+Content-Type: text/xml; charset=utf-8
+
+Content-Length: 325
+
+SOAPAction: "http://OutSystemsNowService/ApplicationConfig/GetAllApplicationConfig"
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+
+  <soap:Body>
+
+    <GetAllApplicationConfig xmlns="http://www.outsystems.com" />
+
+  </soap:Body>
+
+</soap:Envelope>
+ 
